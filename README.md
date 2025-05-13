@@ -35,7 +35,7 @@
 Так спочатку створемо наші сторінки. Перед цим зайдемо у каталог /components/ui створемо
 2 файла EntityCard і Modal і створемо у цих каталогах 2 файла у форматі .tsx і.ts
 
-![component_ui](https://github.com/user-attachments/assets/f42db2a7-5d54-48e6-9443-ff1f46dcec39)
+![component_ui](https://github.com/user-attachments/assets/2e58cfab-3d9c-43ab-8e8a-118497bde7aa)
 
 Тепер зміст файлів
 
